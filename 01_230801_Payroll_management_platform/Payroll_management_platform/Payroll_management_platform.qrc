@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Payroll_management_platform">
+        <file>Resources/设置界面背景图 .jpg</file>
+        <file>Resources/money.ico</file>
+    </qresource>
+</RCC>
